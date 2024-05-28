@@ -1,0 +1,145 @@
+.body {
+  width: 100%;
+  padding: 0;
+}
+.container-box {
+  position: relative;
+  padding: 10px;
+  background-color: whitesmoke;
+  border: 1px solid rgb(156, 153, 153);
+  border-radius: 20px;
+  width: 20%;
+  height: 450px;
+  left: 37%;
+  top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.container-top-icons {
+  position: relative;
+  display: flex;
+  left: 85%;
+  top: 10px;
+}
+#top-icons {
+  position: relative;
+  left: 150%;
+  top: 10px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+}
+.container-top-content {
+  position: relative;
+  top: 10%;
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  height: 20%;
+  right: 25px;
+  flex-direction: column;
+  gap: 9.2px;
+}
+.search {
+  position: relative;
+  padding: 11.04px, 18.4px, 11.04px, 18.4px;
+  width: 235px;
+  height: 30%;
+  left: 98%;
+  border: 1px solid #bcbcbc;
+  border-radius: 92px;
+}
+.user {
+  position: relative;
+  top: 32%;
+  right: 10%;
+  display: flex;
+  flex-direction: row;
+}
+#userdetail {
+  position: relative;
+  padding: 5px;
+  display: flex;
+  width: 110px;
+  height: 20px;
+  left: 20%;
+  bottom: 5px;
+  border-radius: 20px;
+  border: 1px solid #433939;
+}
+.note-container {
+  position: relative;
+  display: flex;
+  top: 45%;
+  right: 90%;
+}
+.input {
+  display: flex;
+  position: relative;
+  width: 150px;
+  left: 10%;
+  bottom: 5px;
+  height: 20px;
+  padding: 5px 10px 5px 10px;
+  gap: 10px;
+  border-radius: 12px;
+  border: 1px solid #ededed;
+  opacity: 0px;
+}
+.line {
+  position: relative;
+  width: 269.45px;
+  height: 0px;
+  gap: 0px;
+  left: 38%;
+  bottom: 190px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+}
+.comment-container {
+  position: relative;
+  width: Fill (269.45px) px;
+  height: Hug (17px) px;
+  gap: 196px;
+  padding: 10px;
+  left: 38%;
+  bottom: 170px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 16.94px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #5a5a5a;
+}
+.user1 {
+  position: relative;
+  width: Fill (269.45px) px;
+  height: Hug (41px) px;
+  gap: 10px;
+  left: 40px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 14.52px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.input1{
+    display: flex;
+    position: relative;
+    width:190px;
+    left: 41%;
+    bottom: 200px;
+    height: 20px;
+    padding: 5px 10px 5px 10px;
+    gap: 10px;
+    border-radius: 12px;
+    border: 1px solid #ededed;
+    opacity: 0px;
+}
+
